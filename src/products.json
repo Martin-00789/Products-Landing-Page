@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Camisa",
+    "price": "100",
+    "discount": "30",
+    "url": "https://picsum.photos/180"
+  },
+  {
+    "name": "Pantalon",
+    "price": "120",
+    "discount": "25",
+    "url": "https://picsum.photos/180"
+  },
+  {
+    "name": "Zapatos",
+    "price": "300",
+    "discount": "60",
+    "url": "https://picsum.photos/180"
+  },
+  {
+    "name": "Gafas",
+    "price": "80",
+    "discount": "15",
+    "url": "https://picsum.photos/180"
+  },
+  {
+    "name": "Teclado",
+    "price": "80",
+    "discount": "15",
+    "url": "https://picsum.photos/180"
+  },
+  {
+    "name": "Monitor",
+    "price": "80",
+    "discount": "15",
+    "url": "https://picsum.photos/180"
+  },
+  {
+    "name": "Jarro",
+    "price": "80",
+    "discount": "15",
+    "url": "https://picsum.photos/180"
+  },
+  {
+    "name": "Proyector",
+    "price": "80",
+    "discount": "15",
+    "url": "https://picsum.photos/180"
+  }
+]
